@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethiy&show_icons=true&theme=chartreuse-dark&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ethiy&no-frame=true&margin-w=10&margin-h=10&row=2&column=3&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
